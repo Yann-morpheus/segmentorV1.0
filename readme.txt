@@ -2,6 +2,10 @@
               manuel d'utilsation de segmentor
 ========================================================================
 
+outils permettant de repartir le contenue de votre fichier dans plusieurs fichier de meme extension
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
   1> si vos fichier doivent avoir une entete ou un pieds de page fixe 
 
 	-saisissez l'entete dans le fichier <header.txt>.
